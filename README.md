@@ -1,1 +1,1 @@
-# xsg_d
+dockerfile for snowgem daemon
