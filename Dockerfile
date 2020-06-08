@@ -1,4 +1,3 @@
-#from nibirupool/nibiru:latest
 FROM ubuntu:18.04
 
 RUN  \
