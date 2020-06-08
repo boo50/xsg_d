@@ -1,0 +1,9 @@
+version: '3'
+services:
+  xsg_d:
+    image: nibirupool/xsg_d
+    tty: true
+    volumes:
+      - "xsg_d:/root/.snowgem/"
+volumes:
+  xsg_d:
