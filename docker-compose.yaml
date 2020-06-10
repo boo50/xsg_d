@@ -1,7 +1,7 @@
 version: '3'
 services:
   xsg_d:
-    image: nibirupool/xsg_d
+    image: nibirupool/xsg_d:masternode
     tty: true
     volumes:
       - "xsg_d:/root/.snowgem/"
